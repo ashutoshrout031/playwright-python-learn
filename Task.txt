@@ -1,0 +1,21 @@
+******* Mandatory steps to do first ********
+
+** Create python venv
+** Install required dependency
+
+*********************************************
+_____________________________________________
+
+
+Navigate this Link - https://opensource-demo.orangehrmlive.com/
+
+4 test cases
+
+validate the url should not - "https://opensource-demo.orangehrmlive.com/"
+
+validate the url is - https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+
+validate the title is - OrangeHRM
+
+validate the title should not - Orange HRM
+
