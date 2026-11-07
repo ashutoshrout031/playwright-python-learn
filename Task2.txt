@@ -1,0 +1,14 @@
+Navigate this Link - https://testautomationpractice.blogspot.com//
+
+
+2 test case
+
+tc 1
+use get_by_text() to get element of male and female
+check female radio button
+validate female radio button is checked and male radio button is unchecked
+
+tc 2
+use get_by_text() to get element of male and female
+check male radio button
+validate male radio button is checked and female radio button is unchecked
